@@ -1,4 +1,4 @@
-# Exemplo de requisição à API GestãoClick (`api_midiabrindes_example`)
+# Template de Requisição à API do GestãoClick
 
 Este diretório contém um **exemplo mínimo e independente** de como fazer uma requisição à API GestãoClick,
 pensado para que qualquer pessoa que acesse o repositório no GitHub consiga testar rapidamente
